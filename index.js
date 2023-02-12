@@ -1,0 +1,1 @@
+let cross=document.getElementById('cross')
