@@ -4,5 +4,13 @@
         height: 100vh;
         border-radius: 0px;
     }
+    h1{
+        margin-bottom: 70px;
+      }
+
+      .btn1{
+        margin-bottom: 30px;
+      }
   }
+  
   
