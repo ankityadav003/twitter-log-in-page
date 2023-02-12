@@ -1,0 +1,8 @@
+@media screen and (max-width:500px )  {
+    .main-area{
+        width: 100vw;
+        height: 100vh;
+        border-radius: 0px;
+    }
+  }
+  
